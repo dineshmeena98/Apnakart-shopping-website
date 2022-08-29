@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+*_glfb+61yfwpfb7a!!k_gkr*^+j_$z%$x3s9g#tbti3@k662
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','apnakart1.herokuapp.com/']
 
 
 # Application definition
